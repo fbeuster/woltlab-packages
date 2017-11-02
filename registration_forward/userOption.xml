@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/vortex/eventListener.xsd">
+  <import>
+    <options>
+      <option name="exampleRegisterForward">
+        <categoryname>profile.contact</categoryname>
+        <optiontype>boolean</optiontype>
+        <defaultvalue>1</defaultvalue>
+        <required>1</required>
+        <askduringregistration>1</askduringregistration>
+        <editable>6</editable>
+      </option>
+    </options>
+  </import>
+</data>

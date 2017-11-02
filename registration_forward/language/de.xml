@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/vortex/language.xsd" languagecode="de">
+    <category name="wcf.user.option">
+      <item name="wcf.user.option.exampleRegisterForward.description"><![CDATA[Erstellt ebenfalls ein Nutzerkonto mit den selben Daten auf Example.de]]></item>
+      <item name="wcf.user.option.exampleRegisterForward"><![CDATA[Example.de Konto]]></item>
+    </category>
+    <category name="exampleregistrationforward.note.title">
+      <item name="exampleregistrationforward.note.description"><![CDATA[Zur Nutzung der Example.com Foren ist ein Konto auf Example.de zwingend erforderlich.]]></item>
+      <item name="exampleregistrationforward.note.title"><![CDATA[Achtung!]]></item>
+    </category>
+</language>

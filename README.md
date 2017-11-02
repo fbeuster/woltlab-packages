@@ -5,6 +5,7 @@ In this repository, I'm collecting all WoltLab packages, that I've created ove t
 
 ## List of Examples
 [Account Change Notifitcation](account_change_notification)
+[Registration Forward](registration_forward)
 
 ## Disclaimer
 I would consider myself as a beginner in developing for the WoltLab Suite. This means that the examples might not be perfect, follow the best practices for debeloping for the WoltLab Suite, and there might be better ways do implement the features. Feel free to open an issue if you have any suggestions or questions (though again, I'm WoltLab beginner, so support might be limited).
