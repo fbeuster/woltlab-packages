@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/vortex/language.xsd" languagecode="en">
+  <category name="example.accountChange">
+    <item name="example.accountChange.mail.attention"><![CDATA[Attention]]></item>
+    <item name="example.accountChange.mail.change"><![CDATA[The following changes have been made to your account:]]></item>
+    <item name="example.accountChange.mail.change.mail"><![CDATA[Your email address has been changed.]]></item>
+    <item name="example.accountChange.mail.change.name"><![CDATA[Your username has been changed.]]></item>
+    <item name="example.accountChange.mail.change.password"><![CDATA[Your password has been changed.]]></item>
+    <item name="example.accountChange.mail.change.quit_cancel"><![CDATA[The deletion of your account has been canceled.]]></item>
+    <item name="example.accountChange.mail.change.quit_start"><![CDATA[The deletion of your account has been started. Your account will be deleted on {$data}.]]></item>
+    <item name="example.accountChange.mail.footer"><![CDATA[ - Your #1 community]]></item>
+    <item name="example.accountChange.mail.greeting"><![CDATA[Hi {$user},]]></item>
+    <item name="example.accountChange.mail.note"><![CDATA[If you made these changes yourself, you can ignore this email. Otherwise, please contact us immediately under ]]></item>
+    <item name="example.accountChange.mail.regards"><![CDATA[Your {$site} Team]]></item>
+    <item name="example.accountChange.mail.site"><![CDATA[Example.com]]></item>
+    <item name="example.accountChange.mail.subject"><![CDATA[Attention: Your account has been changed!]]></item>
+  </category>
+</language>
