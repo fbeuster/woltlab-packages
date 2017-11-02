@@ -29,6 +29,11 @@
       }
     }
 
+    /**
+     * Extract changes from the event object.
+     *
+     * @param object    $usermail
+     */
     private function getChanges($eventObj) {
       $changes = array();
       $session = WCF::getSession();
@@ -84,6 +89,12 @@
       }
     }
 
+    /**
+     * Sends a notification mail to the user,
+     * informing about recent changes.
+     *
+     * @param array    $changes
+     */
     private function sendMail($changes) {
       $lang       = WCF::getLanguage();
       $site       = $lang->get('example.accountChange.mail.site');
